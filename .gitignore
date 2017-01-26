@@ -4,6 +4,7 @@
 /gradle
 /gradlew
 /gradlew.bat
+/*.launch
 
 # ForgeGradle
 /run
@@ -23,3 +24,7 @@
 /*.ipr
 /*.iws
 /*.iml
+
+# Jars
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
