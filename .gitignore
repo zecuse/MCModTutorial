@@ -1,3 +1,17 @@
-/.gradle/
-/build/
-/bin/
+# gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
+
+# ForgeGradle
+/run
+
+# eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
