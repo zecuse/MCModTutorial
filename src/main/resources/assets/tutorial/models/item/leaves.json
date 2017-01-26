@@ -1,0 +1,7 @@
+{
+	"parent": "tutorial:block/leaves",
+	"textures":
+	{
+		"inventory": "tutorial:blocks/leaves"
+	}
+}

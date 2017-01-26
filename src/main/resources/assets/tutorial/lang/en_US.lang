@@ -1,0 +1,13 @@
+# Keys
+keys.tutorial.category=Tutorial
+keys.tutorial.charge=Charge
+keys.tutorial.release=Release
+
+# Creative Tabs
+itemGroup.tutorial=Tutorial
+
+# Items
+item.tutorial:leaf.name=Leaf
+
+# Blocks
+tile.tutorial:leaves.name=Leaves
