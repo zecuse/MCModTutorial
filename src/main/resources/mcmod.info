@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorial",
+  "name": "Tutorial",
+  "description": "My first mod used as a tutorial for myself.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zecuse"],
+  "credits": "Follow the basic outline to make a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
